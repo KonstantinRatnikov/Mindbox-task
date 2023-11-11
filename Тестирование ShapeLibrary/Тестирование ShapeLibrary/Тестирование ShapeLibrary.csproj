@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Тестирование_ShapeLibrary</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.14.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ShapeLibrary">
+      <HintPath>..\..\ShapeLibrary\ShapeLibrary\bin\Debug\net6.0\ShapeLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

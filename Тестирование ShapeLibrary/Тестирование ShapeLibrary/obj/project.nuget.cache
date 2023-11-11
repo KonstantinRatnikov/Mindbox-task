@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ycyv72rSbX6ckE9+Q9RfjyPglfVduMDMQcCc8Rzz/UFkr67fJr7vL7OYWyb8eI8JNQw9rE/VmyVT++ZIQdEJNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\konst\\OneDrive\\Документы\\Константин\\Приложения C#\\Тестирование ShapeLibrary\\Тестирование ShapeLibrary\\Тестирование ShapeLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

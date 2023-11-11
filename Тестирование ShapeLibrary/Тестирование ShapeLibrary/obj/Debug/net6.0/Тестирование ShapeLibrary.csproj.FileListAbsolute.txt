@@ -1,0 +1,19 @@
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\obj\Debug\net6.0\Тестирование ShapeLibrary.csproj.AssemblyReference.cache
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\obj\Debug\net6.0\Тестирование ShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\obj\Debug\net6.0\Тестирование ShapeLibrary.AssemblyInfoInputs.cache
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\obj\Debug\net6.0\Тестирование ShapeLibrary.AssemblyInfo.cs
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\obj\Debug\net6.0\Тестирование ShapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\bin\Debug\net6.0\Тестирование ShapeLibrary.exe
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\bin\Debug\net6.0\Тестирование ShapeLibrary.deps.json
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\bin\Debug\net6.0\Тестирование ShapeLibrary.runtimeconfig.json
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\bin\Debug\net6.0\Тестирование ShapeLibrary.dll
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\bin\Debug\net6.0\Тестирование ShapeLibrary.pdb
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\bin\Debug\net6.0\ShapeLibrary.dll
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\bin\Debug\net6.0\ShapeLibrary.pdb
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\obj\Debug\net6.0\Тестирование ShapeLibrary.csproj.CopyComplete
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\obj\Debug\net6.0\Тестирование ShapeLibrary.dll
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\obj\Debug\net6.0\refint\Тестирование ShapeLibrary.dll
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\obj\Debug\net6.0\Тестирование ShapeLibrary.pdb
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\obj\Debug\net6.0\Тестирование ShapeLibrary.genruntimeconfig.cache
+C:\Users\konst\OneDrive\Документы\Константин\Приложения C#\Тестирование ShapeLibrary\Тестирование ShapeLibrary\obj\Debug\net6.0\ref\Тестирование ShapeLibrary.dll
