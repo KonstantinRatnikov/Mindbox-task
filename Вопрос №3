@@ -1,6 +1,6 @@
 SELECT 
     P.ProductName,
-    COALESCE(C.CategoryName, 'Нет категории') AS CategoryName
+    ISNULL(C.CategoryName, 'Нет категории') AS CategoryName
 FROM 
     Products P
 LEFT JOIN 
